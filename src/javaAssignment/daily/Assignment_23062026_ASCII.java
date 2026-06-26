@@ -1,4 +1,4 @@
-package daily;
+package javaAssignment.daily;
 
 public class Assignment_23062026_ASCII {
 
